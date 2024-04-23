@@ -77,6 +77,7 @@ https://remix.ethereum.org/
 ![crowdsale_deploy](https://github.com/Akosah304/fintech_module_21_challenge/blob/main/Starter_Code/Evaluation%20evidence/crowdsale_deploye.png)
 
 ## Crowdsale_deployed_address
+ KaseiCoinCrowdsaleDeployer contract was successfully deployed to the blockchain. The constructor likely initialized the contract with parameters, such as the addresses of the KaseiCoinCrowdsale contract and the KaseiCoin token contract. The gas used indicates the computational effort required for the deployment
 
 ![crowdsale_deployed_address](https://github.com/Akosah304/fintech_module_21_challenge/blob/main/Starter_Code/Evaluation%20evidence/crowdsale_deployed_address.png)
 
